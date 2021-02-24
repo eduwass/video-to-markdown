@@ -7,7 +7,7 @@ Video to Markdown
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/545bbce5-8f34-4834-9e16-685a9990c987/deploy-status)](https://app.netlify.com/sites/video-to-markdown/deploys)
 
-Add videos to your markdown files easier - [https://video-to-markdown.netlify.com](https://video-to-markdown.netlify.com).
+Add videos to your markdown files easier - [https://video2md.netlify.app](https://video2md.netlify.app)
 
 
 ## Why?
